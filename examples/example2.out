@@ -1,0 +1,7 @@
+======= MODAL ATOMS VALUATION ====
+P((X → Z)) = -0
+¬(P((X → Z))) = 1
+
+==== PROBABILITY DISTRIBUTION ====
+p(0) = 0   (X=0, Z=0)
+p(1) = 1   (X=1, Z=0)

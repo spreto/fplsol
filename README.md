@@ -89,7 +89,7 @@ After running, FPLSol displays:
 
 ## 📄 License
 
-MIT License — © 2025 Sandro Preto
+MIT License — © 2026 Sandro Preto
 
 ---
 
